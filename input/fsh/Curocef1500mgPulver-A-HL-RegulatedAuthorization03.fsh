@@ -1,0 +1,34 @@
+Instance: Curocef1500mgPulver-A-HL-RA03
+InstanceOf: PPLRegulatedAuthorization
+Usage: #inline
+
+* identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
+* identifier.value = "16569"
+* subject = Reference(Curocef1500mgPulver-A-HL-MPD)
+* type.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
+* type.coding.extension.valueInteger = 1
+* type.coding = $220000000060#220000000061 "Marketing Authorisation"
+* region.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
+* region.coding.extension.valueInteger = 1
+* region.coding = $100000000002#100000000330 "Austria"
+* status.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
+* status.coding.extension.valueInteger = 1
+* status.coding = $100000072049#100000072099 "Valid"
+* statusDate = "2021-08-18"
+* regulator.identifier.system = "https://spor.ema.europa.eu/v1/locations"
+* regulator.identifier.value = "LOC-10000032"
+* regulator.display = "Health Products Regulatory Authority"
+* case.identifier.system = "http://ema.europa.eu/fhir/procedureIdentifierNumber"
+* case.identifier.value = "IE/H/0655/001"
+* case.type.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
+* case.type.coding.extension.valueInteger = 1
+* case.type.coding = $100000154442#100000155061 "Mutual Recognition Procedure"
+* case.datePeriod.start = "2009-10-29"
+* case.datePeriod.end = "2011-03-03"
+* case.application.identifier.system = "http://ema.europa.eu/fhir/applicationIdentifierNumber"
+* case.application.identifier.value = "IE/H/0655/05/II/0015"
+* case.application.type.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
+* case.application.type.coding.extension.valueInteger = 1
+* case.application.type.coding = $100000155688#100000155693 "Variation Type II"
+* case.application.dateDateTime = "2019-02-17"
+* holder = Reference(LOC-100000004)

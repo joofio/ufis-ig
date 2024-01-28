@@ -1,0 +1,9 @@
+Instance: 36b84906-a340-4af5-9225-4cab812e8003
+InstanceOf: PPLManufacturedItemDefinition
+Usage: #inline
+
+
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
