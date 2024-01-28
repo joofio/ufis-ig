@@ -2,8 +2,8 @@ Instance: Calcigran-Forte-500mg-400IU-chewable-tablet-EE-PPD-1392016
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 120 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"
+
+* containedItemQuantity = 120 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100006176-12928-1392016"
 * packageFor = Reference(Calcigran-Forte-500mg-400IU-chewable-tablet-EE-MPD)

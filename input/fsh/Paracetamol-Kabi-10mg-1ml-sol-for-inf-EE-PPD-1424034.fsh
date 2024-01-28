@@ -2,8 +2,8 @@ Instance: Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-PPD-1424034
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "vial"
+
+* containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "vial"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100008123-25101-1424034"
 * packageFor = Reference(Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-MPD)

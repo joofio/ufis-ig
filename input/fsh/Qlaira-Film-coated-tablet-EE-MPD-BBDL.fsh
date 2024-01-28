@@ -22,6 +22,3 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Qlaira-Film-coated-tablet-EE-I-dark-yellow"
-//DUMMY
-* entry[+].resource = Qlaira-Film-coated-tablet-EE-APD
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Qlaira-Film-coated-tablet-EE-APD"

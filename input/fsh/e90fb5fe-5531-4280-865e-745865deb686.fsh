@@ -2,8 +2,8 @@ Instance: e90fb5fe-5531-4280-865e-745865deb686
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 12 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152
+
+* containedItemQuantity = 12 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152
 * packageFor = Reference(bb8c2306-04c5-42df-94c9-aa6d6e68050b)
 * description = "12 comprimido blister"
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

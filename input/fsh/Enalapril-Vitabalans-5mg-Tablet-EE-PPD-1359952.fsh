@@ -2,8 +2,8 @@ Instance: Enalapril-Vitabalans-5mg-Tablet-EE-PPD-1359952
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 100 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablets"
+
+* containedItemQuantity = 100 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablets"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-ML192-23517-1359952"
 * packageFor = Reference(Enalapril-Vitabalans-5mg-Tablet-EE-MPD)

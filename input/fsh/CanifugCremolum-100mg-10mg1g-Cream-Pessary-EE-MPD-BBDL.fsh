@@ -30,6 +30,3 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/CanifugCremolum-10mg1g-Cream-EE-I"
-//DUMMY
-* entry[+].resource = CanifugCremolum-100mg-10mg1g-Cream-Pessary-EE-APD
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/CanifugCremolum-100mg-10mg1g-Cream-Pessary-EE-APD"

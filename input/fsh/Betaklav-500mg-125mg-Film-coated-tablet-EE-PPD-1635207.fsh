@@ -2,8 +2,8 @@ Instance: Betaklav-500mg-125mg-Film-coated-tablet-EE-PPD-1635207
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 500 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"
+
+* containedItemQuantity = 500 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100009540-30722-1635207"
 * packageFor = Reference(Betaklav-500mg-125mg-Film-coated-tablet-EE-MPD)

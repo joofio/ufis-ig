@@ -2,8 +2,8 @@ Instance: Agen-5mg-Tablet-EE-PPD-1109887-B
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablets"
+
+* containedItemQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablets"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100002580-15547-1109887"
 * packageFor = Reference(Agen-5mg-Tablet-EE-MPD)

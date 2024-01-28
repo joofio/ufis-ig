@@ -38,6 +38,3 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/ManufacturedItemDefinition/Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-MID-1424056"
-//DUMMY
-* entry[+].resource = Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-APD
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-APD"

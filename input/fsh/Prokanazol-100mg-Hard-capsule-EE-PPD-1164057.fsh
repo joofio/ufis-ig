@@ -2,8 +2,8 @@ Instance: Prokanazol-100mg-Hard-capsule-EE-PPD-1164057
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 50 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"
+
+* containedItemQuantity = 50 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100000151-15472-1164057"
 * packageFor = Reference(Prokanazol-100mg-Hard-capsule-EE-MPD)

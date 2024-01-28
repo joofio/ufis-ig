@@ -2,8 +2,8 @@ Instance: Simvacor-10mg-Film-coated-tablet-EE-PPD-1080166-B
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"
+
+* containedItemQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100002475-1080166-1080166"
 * packageFor = Reference(Simvacor-10mg-Film-coated-tablet-EE-MPD)

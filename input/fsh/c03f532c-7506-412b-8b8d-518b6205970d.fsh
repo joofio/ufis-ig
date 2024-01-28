@@ -2,8 +2,8 @@ Instance: c03f532c-7506-412b-8b8d-518b6205970d
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152
+
+* containedItemQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152
 * packageFor = Reference(bb8c2306-04c5-42df-94c9-aa6d6e68050b)
 * description = "30 comprimido blister"
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

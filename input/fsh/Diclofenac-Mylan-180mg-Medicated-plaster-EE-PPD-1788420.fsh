@@ -2,8 +2,8 @@ Instance: Diclofenac-Mylan-180mg-Medicated-plaster-EE-PPD-1788420
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002140 "Plaster"
+
+* containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002140 "Plaster"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100022866-36016-1788420"
 * packageFor = Reference(Diclofenac-Mylan-180mg-Medicated-plaster-EE-MPD)

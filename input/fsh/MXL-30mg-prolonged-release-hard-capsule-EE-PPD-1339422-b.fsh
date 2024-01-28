@@ -2,8 +2,8 @@ Instance: MXL-30mg-prolonged-release-hard-capsule-EE-PPD-1339422-b
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"
+
+* containedItemQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100044010-10216-1339422-b"
 * packageFor = Reference(MXL-30mg-prolonged-release-hard-capsule-EE-MPD)

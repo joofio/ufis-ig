@@ -2,8 +2,8 @@ Instance: Diclac-10mg1g-Gel-EE-PPD-1153268
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002156 "Tube"
+
+* containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002156 "Tube"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100002893-17429-1153268"
 * packageFor = Reference(Diclac-10mg1g-Gel-EE-MPD)

@@ -2,8 +2,8 @@ Instance: Sandimmun-Neoral-25mg-Soft-Capsule-EE-PPD-1008526
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 50 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"
+
+* containedItemQuantity = 50 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100011823-12531-1008526"
 * packageFor = Reference(Sandimmun-Neoral-25mg-Soft-Capsule-EE-MPD)

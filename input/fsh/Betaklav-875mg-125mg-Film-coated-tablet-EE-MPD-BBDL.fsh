@@ -18,6 +18,3 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/ManufacturedItemDefinition/Betaklav-875mg-125mg-Film-coated-tablet-EE-MID"
-//DUMMY
-* entry[+].resource = Betaklav-875mg-125mg-Film-coated-tablet-EE-APD
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Betaklav-875mg-125mg-Film-coated-tablet-EE-APD"

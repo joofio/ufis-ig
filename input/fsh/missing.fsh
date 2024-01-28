@@ -1,6 +1,8 @@
 
+
 Instance: Zoloft50mgdepottablett-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Trombyl160mgtablett-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -9,6 +11,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: VaxigripTetra-0.5ml-Suspension-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(VaxigripTetra-0.5ml-Suspension-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073864 "Suspension for injection"
@@ -18,6 +21,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Stesolid-10mg-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Stesolid-10mg-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073829 "Rectal solution"
@@ -26,6 +30,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Stesolid-2mg-Tablet-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Stesolid-2mg-Tablet-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073664 "Tablet"
@@ -34,6 +39,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Renitec-10mg-Tablet-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Renitec-10mg-Tablet-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073664 "tablet"
@@ -42,6 +48,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Oxascand-5mg-Tablet-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Oxascand-5mg-Tablet-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073664 "Tablet"
@@ -50,6 +57,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Zinacef-250mg-Powder-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Zinacef-250mg-Powder-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000074038 "Solution for injection/infusion"
@@ -59,6 +67,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Zinacef-1.5g-Powder-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Zinacef-1.5g-Powder-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000074038 "Solution for injection/infusion"
@@ -68,6 +77,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Softacort335mgpermlogondroppar-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Softacort335mgpermlogondroppar-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073759 "Eye drops, solution"
@@ -76,6 +86,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: TPTDteva-20mcg80mcl-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(TPTDteva-20mcg80mcl-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -84,6 +95,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Rectogesic4mggrektalsalva-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Rectogesic4mggrektalsalva-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073828 "Rectal ointment"
@@ -92,6 +104,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: TramadolRetardActavis100mgdepot-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(TramadolRetardActavis100mgdepot-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
@@ -100,6 +113,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Zeldox20mgmlpulvervatskainjek-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Zeldox20mgmlpulvervatskainjek-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -109,6 +123,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Sporanox-10mgml-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Sporanox-10mgml-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073646 "Oral solution"
@@ -117,6 +132,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Sobril-10mg-Tablet-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Sobril-10mg-Tablet-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073664 "Tablet"
@@ -125,6 +141,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Levaxin-200mg-Tablet-SE-BS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Levaxin-200mg-Tablet-SE-BS-MPD)
 * administrableDoseForm = $200000000004#100000073664 "Tablet"
@@ -133,6 +150,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Sobril-15mg-Tablet-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Sobril-15mg-Tablet-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073664 "Tablet"
@@ -141,6 +159,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Tradolan50mgmlinjektionlosning-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Tradolan50mgmlinjektionlosning-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -151,6 +170,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Voxra-150mg-Tablet-SE-BS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Voxra-150mg-Tablet-SE-BS-MPD)
 * administrableDoseForm = $200000000004#100000073668 "Modified-release tablet"
@@ -159,6 +179,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Sporanox-100mg-Cap-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Sporanox-100mg-Cap-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -167,6 +188,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Suscard5mgbuckaltablett-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Suscard5mgbuckaltablett-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073699 "Buccal tablet"
@@ -175,6 +197,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: CMImylan-25mg-Tablet-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(CMImylan-25mg-Tablet-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073664 "Tablet"
@@ -183,6 +206,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Zoladex-3.6mg-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Zoladex-3.6mg-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073874 "Implant"
@@ -191,6 +215,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Suscard25mgbuckaltablett-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Suscard25mgbuckaltablett-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073699 "Buccal tablet"
@@ -199,6 +224,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: CMImylan-10mg-Tablet-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(CMImylan-10mg-Tablet-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073664 "Tablet"
@@ -207,6 +233,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Ventoline2mgmllosningnebulisator-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Ventoline2mgmllosningnebulisator-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073835 "Nebuliser solution"
@@ -215,6 +242,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Stesolid-5mg-Tablet-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Stesolid-5mg-Tablet-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073664 "Tablet"
@@ -223,6 +251,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Voxra-300mg-Tablet-SE-BS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Voxra-300mg-Tablet-SE-BS-MPD)
 * administrableDoseForm = $200000000004#100000073668 "Modified-release tablet"
@@ -231,6 +260,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Stesolid-10mg-Tablet-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Stesolid-10mg-Tablet-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073664 "Tablet"
@@ -239,6 +269,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: EnoxaparinBecat8000IEinjektion-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(EnoxaparinBecat8000IEinjektion-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -248,6 +279,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Klexane100000IEinjektion-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Klexane100000IEinjektion-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -257,6 +289,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Losec-10mg-Tablet-SE-BS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Losec-10mg-Tablet-SE-BS-MPD)
 * administrableDoseForm = $200000000004#100000073667 "Gastro-resistant tablet"
@@ -265,6 +298,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: SoluCortef100mgpulvervatskainj-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(SoluCortef100mgpulvervatskainj-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -274,6 +308,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Espranor-8mg-Lyophilisate-SE-BS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Espranor-8mg-Lyophilisate-SE-BS-MPD)
 * administrableDoseForm = $200000000004#100000073682 "Oral lyophilisate"
@@ -282,6 +317,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Locoid01kutanlosning-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Locoid01kutanlosning-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073731 "Cutaneous solution"
@@ -291,6 +327,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Orimox-50mcg-Suspension-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Orimox-50mcg-Suspension-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000174018 "Suspension for spray"
@@ -299,6 +336,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Tiparol50mgbrustablett-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Tiparol50mgbrustablett-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073681 "Effervescent tablet"
@@ -307,6 +345,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: EnoxaparinLedraxen2000IEinjektion-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(EnoxaparinLedraxen2000IEinjektion-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -316,6 +355,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Oxascand-10mg-Tablet-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Oxascand-10mg-Tablet-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073664 "Tablet"
@@ -324,6 +364,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Stesolidpre-5mgml-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Stesolidpre-5mgml-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073829 "Rectal solution"
@@ -332,6 +373,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Zinacef-750mg-Powder-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Zinacef-750mg-Powder-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000074038 "Solution for injection/infusion"
@@ -341,12 +383,14 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: IMAsandoz-400mg-Tablet-SE-IS-MID
 InstanceOf: PPLManufacturedItemDefinition
+Usage: #inline
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * unitOfPresentation = $200000000014#200000002152 "Tablet"
 
 Instance: Stesolid-5mg-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Stesolid-5mg-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073829 "Rectal solution"
@@ -355,6 +399,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Espranor-2mg-Lyophilisate-SE-BS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Espranor-2mg-Lyophilisate-SE-BS-MPD)
 * administrableDoseForm = $200000000004#100000073682 "Oral lyophilisate"
@@ -363,12 +408,14 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Glytrin04mgdossublingualspray-SE-PLC-MID
 InstanceOf: PPLManufacturedItemDefinition
+Usage: #inline
 * status = #active
 * manufacturedDoseForm = $200000000004#100000143499 "Sublingual spray, solution"
 * unitOfPresentation = $200000000014#200000022801 "Canister"
 
 Instance: VoltarenT50mgFilmtablet-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(VoltarenT50mgFilmtablet-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -377,6 +424,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Zoladex-10.8mg-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Zoladex-10.8mg-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073874 "Implant"
@@ -385,6 +433,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: TPTDteva-2080-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(TPTDteva-2080-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -393,6 +442,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: TramadolRetardHexal100mgdepot-SE-PLC-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(TramadolRetardHexal100mgdepot-SE-PLC-MPD)
 * administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
@@ -401,16 +451,55 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Oxascand-15mg-Tablet-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Oxascand-15mg-Tablet-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073664 "Tablet"
 * producedFrom = Reference(Oxascand-15mg-Tablet-SE-IS-MID)
 * routeOfAdministration.code = $100000073345#100000073619 "Oral use"
 
+Instance: Qlaira-Film-coated-tablet-EE-MID-medium-red
+InstanceOf: PPLManufacturedItemDefinition
+Usage: #inline
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+
+Instance: Qlaira-Film-coated-tablet-EE-MID-light-yellow
+InstanceOf: PPLManufacturedItemDefinition
+Usage: #inline
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+
+Instance: Qlaira-Film-coated-tablet-EE-MID-dark-red
+InstanceOf: PPLManufacturedItemDefinition
+Usage: #inline
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+
+Instance: Qlaira-Film-coated-tablet-EE-MID-white
+InstanceOf: PPLManufacturedItemDefinition
+Usage: #inline
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+
+Instance: JMJ-Co-amoxiclav-manufactured-item-example
+InstanceOf: PPLManufacturedItemDefinition
+Usage: #inline
+* status = #active
+* manufacturedDoseForm.coding[0] = $standardterms#10221000 "Film-coated tablet"
+* manufacturedDoseForm.coding[+] = $200000000004#100000073665 "Film-coated tablet"
+* unitOfPresentation.coding[0] = $standardterms#15054000 "Tablet"
+* unitOfPresentation.coding[+] = $200000000014#200000002152 "Tablet"
+
 
 
 Instance: TrimonilR-200mg-PRTablet-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(TrimonilR-200mg-PRTablet-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
@@ -419,6 +508,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: TrimonilR-150mg-PRTablet-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(TrimonilR-150mg-PRTablet-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
@@ -427,6 +517,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Triolif-Orange-Lozenge-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Triolif-Orange-Lozenge-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073703 "Lozenge"
@@ -436,6 +527,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: TegretolR-400mg-PRTablet-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(TegretolR-400mg-PRTablet-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
@@ -444,6 +536,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Tegretol-200mg-Tablet-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Tegretol-200mg-Tablet-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073664 "Tablet"
@@ -452,6 +545,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Tegretol-20mgml-Suspension-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Tegretol-20mgml-Suspension-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073362 "Oral suspension"
@@ -460,6 +554,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: TrimonilR-400mg-PRTablet-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(TrimonilR-400mg-PRTablet-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
@@ -468,6 +563,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Xylocain-2-Gel-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Xylocain-2-Gel-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073726 "Gel"
@@ -477,6 +573,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Xylo10-Adr5-InjSol-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Xylo10-Adr5-InjSol-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -487,6 +584,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Xylocain-10mgml-InjSol-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Xylocain-10mgml-InjSol-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -497,6 +595,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Triolif-HonLem-Lozenge-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Triolif-HonLem-Lozenge-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073703 "Lozenge"
@@ -506,6 +605,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Tapin-2525-Plaster-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Tapin-2525-Plaster-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073714 "Medicated plaster"
@@ -514,6 +614,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: LidPrilAlterNova-2525-Cream-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(LidPrilAlterNova-2525-Cream-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073712 "Cream"
@@ -522,6 +623,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: LidokainAgu-20mgml-InjSol-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(LidokainAgu-20mgml-InjSol-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -532,6 +634,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Tapin-2525-Cream-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Tapin-2525-Cream-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073712 "Cream"
@@ -540,6 +643,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Xylocain-Dental-Adrenalin-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Xylocain-Dental-Adrenalin-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -549,6 +653,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Yaz-0023mg-tablet-SE-AJ-APD01
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Yaz-0023mg-tablet-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -557,6 +662,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Xylocain-WOP-2-Gel-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Xylocain-WOP-2-Gel-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073726 "Gel"
@@ -566,6 +672,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Lido4-Fluor25-EyeDropsSol-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Lido4-Fluor25-EyeDropsSol-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073759 "Eye drops, solution"
@@ -574,6 +681,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: LidoMylan-10mgml-InjSol-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(LidoMylan-10mgml-InjSol-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -584,6 +692,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Yasminelle28-tablet-SE-AJ-APD01
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Yasminelle28-tablet-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -592,6 +701,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: LidokainAgu-10mgml-InjSol-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(LidokainAgu-10mgml-InjSol-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -602,6 +712,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Xylocain-WOP-10mgml-InjSol-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Xylocain-WOP-10mgml-InjSol-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -612,6 +723,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Xylocard-20mgml-InjSol-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Xylocard-20mgml-InjSol-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -620,6 +732,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: TegretolR-200mg-PRTablet-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(TegretolR-200mg-PRTablet-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
@@ -628,6 +741,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Tegretol-400mg-Tablet-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Tegretol-400mg-Tablet-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073664 "Tablet"
@@ -636,6 +750,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Tegretol-100mg-Tablet-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Tegretol-100mg-Tablet-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073664 "Tablet"
@@ -644,6 +759,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Xylocain-20mgml-InjSol-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Xylocain-20mgml-InjSol-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -654,6 +770,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Xylocain-100mgml-cutspray-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Xylocain-100mgml-cutspray-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073729 "Cutaneous spray, solution"
@@ -662,6 +779,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Xyloproct-RectalOintment-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Xyloproct-RectalOintment-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073828 "Rectal Ointment"
@@ -670,6 +788,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: LidoAcc-20mgml-InjSol-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(LidoAcc-20mgml-InjSol-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -681,6 +800,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Triolif-Mint-Lozenge-SE-AJ-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Triolif-Mint-Lozenge-SE-AJ-MPD)
 * administrableDoseForm = $200000000004#100000073703 "Lozenge"
@@ -692,6 +812,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Fragmin-7500IE-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Fragmin-7500IE-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -703,6 +824,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Fragmin-15000IE-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Fragmin-15000IE-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -713,6 +835,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Fragmin-2500IEml-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Fragmin-2500IEml-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -723,6 +846,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Fragmin-5000IE-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Fragmin-5000IE-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -733,6 +857,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Fragmin-10000IE-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Fragmin-10000IE-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -743,6 +868,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Fragmin-18000IE-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Fragmin-18000IE-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -753,6 +879,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Fragmin-10000IEml-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Fragmin-10000IEml-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -764,6 +891,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Fragmink-10000IE-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Fragmink-10000IE-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -774,6 +902,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Fragmink-25000IE-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Fragmink-25000IE-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -784,6 +913,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Fragmin-2500IE-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Fragmink-25000IE-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -794,6 +924,7 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Fragmin-12500IE-Solution-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
 * status = #active
 * formOf = Reference(Fragmink-12500IE-Solution-SE-IS-MPD)
 * administrableDoseForm = $200000000004#100000073863 "Solution for injection"
@@ -805,18 +936,13 @@ InstanceOf: PPLAdministrableProductDefinition
 
 Instance: Fragmink-25000IE-Solution-SE-IS-MID
 InstanceOf: PPLManufacturedItemDefinition
+Usage: #inline
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 * unitOfPresentation = $200000000014#200000002158 "Vial"
 
-Instance: MetforminAristo-1000mg-Tablet-SE-BS-APD
-InstanceOf: PPLAdministrableProductDefinition
-Usage: #example
-* status = #active
-* formOf = Reference(MetforminAristo-1000mg-Tablet-SE-BS-MPD)
-* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
-* producedFrom = Reference(MetforminAristo-1000mg-Tablet-SE-BS-MID)
-* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+
 
 Instance: MorfinAlt-20mg-Tablet-SE-BS-APD
 InstanceOf: PPLAdministrableProductDefinition
@@ -1177,6 +1303,14 @@ Usage: #inline
 * producedFrom = Reference(IMAsandoz-100mg-Tablet-SE-IS-MID)
 * routeOfAdministration.code = $100000073345#100000073619 "Oral use"
 
+Instance: MetforminAristo-1000mg-Tablet-SE-BS-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(MetforminAristo-1000mg-Tablet-SE-BS-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* producedFrom = Reference(MetforminAristo-1000mg-Tablet-SE-BS-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
 
 Instance: IMAkrkadd-100mg-Tablet-SE-IS-APD
 InstanceOf: PPLAdministrableProductDefinition
@@ -2365,7 +2499,417 @@ Usage: #inline
 * producedFrom = Reference(Norspan-20h-Transderm-SE-BS-MID)
 * routeOfAdministration.code = $100000073345#100000073637 "Transdermal use"
 
+Instance: Tramadol-KRKA-100mg-Prolonged-release-tablet-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Tramadol-KRKA-100mg-Prolonged-release-tablet-EE-MPD)
+* administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+* producedFrom = Reference(Tramadol-KRKA-100mg-Prolonged-release-tablet-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
 
+Instance: Enalapril-Vitabalans-5mg-Tablet-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Enalapril-Vitabalans-5mg-Tablet-EE-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+* producedFrom = Reference(Enalapril-Vitabalans-5mg-Tablet-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Hydrocortisone-DAK-10mg1g-Ointment-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Hydrocortisone-DAK-10mg1g-Ointment-EE-MPD)
+* administrableDoseForm = $200000000004#100000073713 "Ointment"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+* producedFrom = Reference(Hydrocortisone-DAK-10mg1g-Ointment-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073566 "Cutaneous use"
+
+Instance: Ventolin-100mcg-Pressurised-inhalation-suspension-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Ventolin-100mcg-Pressurised-inhalation-suspension-EE-MPD)
+* administrableDoseForm = $200000000004#100000073838 "Pressurised inhalation, suspension"
+* unitOfPresentation = $200000000014#200000002163 "Actuation"
+* producedFrom = Reference(Ventolin-100mcg-Pressurised-inhalation-suspension-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073584 "Inhalation use"
+
+Instance: Valocordin-Diazepam-10mg-1ml-Oral-drops-solution-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Valocordin-Diazepam-10mg-1ml-Oral-drops-solution-EE-MPD)
+* administrableDoseForm = $200000000004#100000073642 "Oral drops, solution"
+* unitOfPresentation = $200000000014#200000002121 "Drop"
+* producedFrom = Reference(Valocordin-Diazepam-10mg-1ml-Oral-drops-solution-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Betaklav-500mg-125mg-Film-coated-tablet-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Betaklav-500mg-125mg-Film-coated-tablet-EE-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+* producedFrom = Reference(Betaklav-500mg-125mg-Film-coated-tablet-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Agen-5mg-Tablet-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Agen-5mg-Tablet-EE-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+* producedFrom = Reference(Agen-5mg-Tablet-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Lidocaine-Grindeks-100mg1ml-sol-for-injection-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Lidocaine-Grindeks-100mg1ml-sol-for-injection-EE-MPD)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+* producedFrom = Reference(Lidocaine-Grindeks-100mg1ml-sol-for-injection-EE-MID)
+* routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
+* routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
+
+Instance: Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-APD-1424034
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-MPD)
+* administrableDoseForm = $200000000004#100000174051 "Solution for solution for infusion "
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+* producedFrom = Reference(Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-MID-1424034)
+* routeOfAdministration.code = $100000073345#100000073611 "Intravenous use"
+
+Instance: Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-APD-1799905
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-MPD)
+* administrableDoseForm = $200000000004#100000174051 "Solution for solution for infusion "
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+* producedFrom = Reference(Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-MID-1799905)
+* routeOfAdministration.code = $100000073345#100000073611 "Intravenous use"
+
+Instance: Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-APD-1424056
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-MPD)
+* administrableDoseForm = $200000000004#100000174051 "Solution for solution for infusion "
+* unitOfPresentation = $200000000014#200000002166 "Bag"
+* producedFrom = Reference(Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-MID-1424056)
+* routeOfAdministration.code = $100000073345#100000073611 "Intravenous use"
+
+Instance: Clexane-60mg-0.6ml-sol-inj-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Clexane-60mg-0.6ml-sol-inj-EE-MPD)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+* producedFrom = Reference(Clexane-60mg-0.6ml-sol-inj-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073633 "Subcutaneous use"
+
+Instance: Zoladex-3.6mg-Implant-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Zoladex-3.6mg-Implant-EE-MPD)
+* administrableDoseForm = $200000000004#100000073874 "Implant"
+* unitOfPresentation = $200000000014#200000002124 "Implant"
+* producedFrom = Reference(Zoladex-3.6mg-Implant-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073633 "Subcutaneous use"
+
+Instance: Diclac-10mg1g-Gel-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Diclac-10mg1g-Gel-EE-MPD)
+* administrableDoseForm = $200000000004#100000073726 "Gel"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+* producedFrom = Reference(Diclac-10mg1g-Gel-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073566 "Cutaneous use"
+
+Instance: Diclofenac-Mylan-180mg-Medicated-plaster-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Diclofenac-Mylan-180mg-Medicated-plaster-EE-MPD)
+* administrableDoseForm = $200000000004#100000073714 "Medicated plaster"
+* unitOfPresentation = $200000000014#200000002140 "Plaster"
+* producedFrom = Reference(Diclofenac-Mylan-180mg-Medicated-plaster-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073566 "Cutaneous use"
+
+Instance: Canesten500mg-Vaginal-Soft-Capsule-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Canesten500mg-Vaginal-Soft-Capsule-EE-MPD)
+* administrableDoseForm = $200000000004#100000073816 "Vaginal capsule, soft"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+* producedFrom = Reference(Canesten500mg-Vaginal-Soft-Capsule-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073639 "Vaginal use"
+
+Instance: Sandimmun-Neoral-25mg-Soft-Capsule-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Sandimmun-Neoral-25mg-Soft-Capsule-EE-MPD)
+* administrableDoseForm = $200000000004#100000073660 "Capsule, soft"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+* producedFrom = Reference(Sandimmun-Neoral-25mg-Soft-Capsule-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Cefuroxime-MIP-1500mg-Powder-for-solution-inj-inf-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Cefuroxime-MIP-1500mg-powder-for-solution-inj-inf-EE-MPD)
+* administrableDoseForm = $200000000004#100000074038 "Solution for injection/infusion"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+* producedFrom = Reference(Cefuroxime-MIP-1500mg-Powder-for-solution-inj-inf-EE-MID)
+* routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+
+Instance: Agen-10mg-Tablet-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Agen-10mg-Tablet-EE-MPD)
+* administrableDoseForm = $200000000004#100000073664 "tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+* producedFrom = Reference(Agen-10mg-Tablet-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Anafranil-25mg-Coated-tablet-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Anafranil-25mg-Coated-tablet-EE-MPD)
+* administrableDoseForm = $200000000004#100000073380 "Coated tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+* producedFrom = Reference(Anafranil-25mg-Coated-tablet-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: CanifugCremolum-10mg1g-Cream-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(CanifugCremolum-100mg-10mg1g-Cream-Pessary-EE-MPD)
+* administrableDoseForm = $200000000004#100000073712 "Cream"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+* producedFrom = Reference(CanifugCremolum-10mg1g-Cream-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073566 "Cutaneous use"
+
+Instance: CanifugCremolum-100mg-Pessary-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(CanifugCremolum-100mg-10mg1g-Cream-Pessary-EE-MPD)
+* administrableDoseForm = $200000000004#100000073815 "Pessary"
+* unitOfPresentation = $200000000014#200000002137 "Pessary"
+* producedFrom = Reference(CanifugCremolum-100mg-Pessary-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073639 "Vaginal use"
+
+Instance: Prokanazol-100mg-Hard-capsule-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Prokanazol-100mg-Hard-capsule-EE-MPD)
+* administrableDoseForm = $200000000004#100000073375 "Capsule, hard"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+* producedFrom = Reference(Prokanazol-100mg-Hard-capsule-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Carbalex-200mg-Tablet-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Carbalex-200mg-Tablet-EE-MPD)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+* producedFrom = Reference(Carbalex-200mg-Tablet-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Kadcyla-100mg-Powder-for-concentrate-for-sol-inf-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Kadcyla-100mg-Powder-for-concentrate-for-sol-inf-EE-MPD)
+* administrableDoseForm = $200000000004#"100000073870  "Solution for infusion"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+* producedFrom = Reference(Kadcyla-100mg-Powder-for-concentrate-for-sol-inf-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073611 "Intravenous use"
+
+Instance: Vendal-retard-60mg-Prolonged-release-tablet-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Vendal-retard-60mg-Prolonged-release-tablet-EE-MPD)
+* administrableDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+* producedFrom = Reference(Vendal-retard-60mg-Prolonged-release-tablet-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Calcigran-Forte-500mg-400IU-chewable-tablet-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Calcigran-Forte-500mg-400IU-chewable-tablet-EE-MPD)
+* administrableDoseForm = $200000000004#1000000736844 "Chewable tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+* producedFrom = Reference(Calcigran-Forte-500mg-400IU-chewable-tablet-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Toujeo-300units-ml-sol-inj-pen-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Toujeo-300units-ml-sol-inj-pen-EE-MPD)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* unitOfPresentation = $200000000014#200000002135 "Pen"
+* producedFrom = Reference(Toujeo-300units-ml-sol-inj-pen-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073633 "Subcutaneous use"
+
+Instance: Amoxicillin-ratiopharm-750mg-Film-coated-tablet-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Amoxicillin-ratiopharm-750mg-Film-coated-tablet-EE-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+* producedFrom = Reference(Amoxicillin-ratiopharm-750mg-Film-coated-tablet-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Gasec-Gastrocaps-40mg-Hard-Capsules-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Gasec-Gastrocaps-40mg-Hard-Capsules-EE-MPD)
+* administrableDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+* producedFrom = Reference(Gasec-Gastrocaps-40mg-Hard-Capsules-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Simvacor-10mg-Film-coated-tablet-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Simvacor-10mg-Film-coated-tablet-EE-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+* producedFrom = Reference(Simvacor-10mg-Film-coated-tablet-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Metfogamma850-850mg-Film-coated-tablet-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Metfogamma850-850mg-Film-coated-tablet-EE-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+* producedFrom = Reference(Metfogamma850-850mg-Film-coated-tablet-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Amoksiklav-1000mg-200mg-powder-for-solution-inj-inf-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Amoksiklav-1000mg-200mg-powder-for-solution-inj-inf-EE-MPD)
+* administrableDoseForm = $200000000004#100000074038 "Solution for injection/infusion"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+* producedFrom = Reference(Amoksiklav-1000mg-200mg-powder-for-solution-inj-inf-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073611 "Intravenous use"
+
+Instance: MXL-30mg-prolonged-release-hard-capsule-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(MXL-30mg-prolonged-release-hard-capsule-EE-MPD)
+* administrableDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+* producedFrom = Reference(MXL-30mg-prolonged-release-hard-capsule-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Qlaira-Film-coated-tablet-EE-APD-dark-yellow
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Qlaira-Film-coated-tablet-EE-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+* producedFrom = Reference(Qlaira-Film-coated-tablet-EE-MID-dark-yellow)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Qlaira-Film-coated-tablet-EE-APD-medium-red
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Qlaira-Film-coated-tablet-EE-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+* producedFrom = Reference(Qlaira-Film-coated-tablet-EE-MID-medium-red)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Qlaira-Film-coated-tablet-EE-APD-light-yellow
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Qlaira-Film-coated-tablet-EE-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+* producedFrom = Reference(Qlaira-Film-coated-tablet-EE-MID-light-yellow)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Qlaira-Film-coated-tablet-EE-APD-dark-red
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Qlaira-Film-coated-tablet-EE-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+* producedFrom = Reference(Qlaira-Film-coated-tablet-EE-MID-dark-red)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Qlaira-Film-coated-tablet-EE-APD-white
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Qlaira-Film-coated-tablet-EE-MPD)
+* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+* producedFrom = Reference(Qlaira-Film-coated-tablet-EE-MID-white)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
+Instance: Canifug-Vaginal-Creme-2g100g-Vaginal-Cream-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Canifug-Vaginal-Creme-2g100g-Vaginal-Cream-EE-MPD)
+* administrableDoseForm = $200000000004#100000073811 "Vaginal cream"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+* producedFrom = Reference(Canifug-Vaginal-Creme-2g100g-Vaginal-Cream-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073639 "Vaginal use"
+
+Instance: Taflotan-0.015mg-1ml-eye-drops-solution-EE-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Taflotan-0.015mg-1ml-eye-drops-solution-EE-MPD)
+* administrableDoseForm = $200000000004#100000073759 "Eye drops, solution"
+* unitOfPresentation = $200000000014#200000002121 "Drop"
+* producedFrom = Reference(Taflotan-0.015mg-1ml-eye-drops-solution-EE-MID)
+* routeOfAdministration.code = $100000073345#100000073617 "Ocular use "
 
 Instance: Curocef1500mgPulver-A-HL-APD
 InstanceOf: PPLAdministrableProductDefinition
@@ -2377,15 +2921,5 @@ Usage: #inline
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 
-
-Instance: Smofkabiven-Emulsion-SE-IS-APD
-InstanceOf: PPLAdministrableProductDefinition
-Usage: #inline
-* status = #active
-* formOf = Reference(Smofkabiven-Emulsion-SE-IS-MPD)
-* administrableDoseForm = $200000000004#100000073858 "Emulsion for infusion"
-* unitOfPresentation = $200000000014#200000002164 "Ampoule"
-* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-* producedFrom = Reference(Smofkabiven-Emulsion-SE-IS-MID)
 
         

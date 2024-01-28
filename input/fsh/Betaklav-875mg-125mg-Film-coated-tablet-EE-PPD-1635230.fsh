@@ -3,8 +3,8 @@ InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
 * language = #EE
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 14 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"
+
+* containedItemQuantity = 14 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"
 * identifier.system = "http://ema.europa.eu/fhir/pcId"
 * identifier.value = "EE-100009540-30723-1635230"
 * packageFor = Reference(Betaklav-875mg-125mg-Film-coated-tablet-EE-MPD)

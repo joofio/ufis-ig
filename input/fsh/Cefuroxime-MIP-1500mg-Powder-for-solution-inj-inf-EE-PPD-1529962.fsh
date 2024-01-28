@@ -2,8 +2,8 @@ Instance: Cefuroxime-MIP-1500mg-Powder-for-solution-inj-inf-EE-PPD-1529962
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "vial"
+
+* containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "vial"
 * packageFor = Reference(Cefuroxime-MIP-1500mg-powder-for-solution-inj-inf-EE-MPD)
 * description = "I tüüpi klaasist viaal, mis on suletud klorobutüülkummist korgi ning flip-off kattega, 1 viaal"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"

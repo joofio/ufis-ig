@@ -3,9 +3,9 @@ InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
 * language = #FI
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity.value = 20
-* extension.valueQuantity.unit = "tablettia"
+
+* containedItemQuantity.value = 20
+* containedItemQuantity.unit = "tablettia"
 * identifier.system = "http://ema.europa.eu/fhir/pcId"
 * identifier.value = "FI-44680-0001"
 * packageFor = Reference(d37bfa6f-ea90-4645-8be4-e7c649dd64f2)

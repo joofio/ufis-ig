@@ -2,8 +2,8 @@ Instance: Lidocaine-Grindeks-100mg1ml-sol-for-injection-EE-PPD-1018774
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002164 "Ampoule"
+
+* containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002164 "Ampoule"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100001754-11270-1018774"
 * packageFor = Reference(Lidocaine-Grindeks-100mg1ml-sol-for-injection-EE-MPD)

@@ -2,8 +2,8 @@ Instance: Qlaira-Film-coated-tablet-EE-PPD-1322660
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 28 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
+
+* containedItemQuantity = 28 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100001505-22493-1322660"
 * packageFor = Reference(Qlaira-Film-coated-tablet-EE-MPD)

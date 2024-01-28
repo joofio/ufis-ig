@@ -2,8 +2,8 @@ Instance: Toujeo-300units-ml-sol-inj-pen-EE-PPD-1684043
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002135 "Pen"
+
+* containedItemQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002135 "Pen"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-ML6602-32176-1684043"
 * packageFor = Reference(Toujeo-300units-ml-sol-inj-pen-EE-MPD)

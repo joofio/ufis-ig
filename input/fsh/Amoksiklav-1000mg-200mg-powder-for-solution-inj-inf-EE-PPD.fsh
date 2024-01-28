@@ -2,8 +2,8 @@ Instance: Amoksiklav-1000mg-200mg-powder-for-solution-inj-inf-EE-PPD
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "vial"
+
+* containedItemQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "vial"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100002893-9157-1017694"
 * packageFor = Reference(Amoksiklav-1000mg-200mg-powder-for-solution-inj-inf-EE-MPD)

@@ -2,8 +2,8 @@ Instance: Canesten500mg-Vaginal-Soft-Capsule-EE-PPD-1670644
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"
+
+* containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100005443-31758-1670644"
 * packageFor = Reference(Canesten500mg-Vaginal-Soft-Capsule-EE-MPD)

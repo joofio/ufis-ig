@@ -2,8 +2,8 @@ Instance: Clexane-60mg-0.6ml-sol-inj-EE-PPD-1065552
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 2 http://spor.ema.europa.eu/v1/lists/200000000014#200000002150 "Syringe"
+
+* containedItemQuantity = 2 http://spor.ema.europa.eu/v1/lists/200000000014#200000002150 "Syringe"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100001368-34217-1065552"
 * packageFor = Reference(Clexane-60mg-0.6ml-sol-inj-EE-MPD)

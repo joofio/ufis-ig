@@ -26,6 +26,3 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Cefuroxime-MIP-1500mg-Powder-for-solution-inj-inf-EE-I"
-//DUMMY
-* entry[+].resource = Cefuroxime-MIP-1500mg-powder-for-solution-inj-inf-EE-APD
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Cefuroxime-MIP-1500mg-powder-for-solution-inj-inf-EE-APD"

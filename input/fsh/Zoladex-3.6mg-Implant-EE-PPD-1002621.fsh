@@ -2,8 +2,8 @@ Instance: Zoladex-3.6mg-Implant-EE-PPD-1002621
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PPD.containedItemQuantity"
-* extension.valueQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002150 "Syringe"
+
+* containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002150 "Syringe"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-EE-100014112-12130-1002621"
 * packageFor = Reference(Zoladex-3.6mg-Implant-EE-MPD)
